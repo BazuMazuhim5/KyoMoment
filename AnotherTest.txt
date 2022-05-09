@@ -1,7 +1,4 @@
 
 <Version: 1.01>
-/CheckHere/test.png https://cdn.discordapp.com/attachments/582127983225995285/973032143225757776/Lol.png
-/CheckHere/test1.png https://cdn.discordapp.com/attachments/582127983225995285/973032143565504512/test.png
-/CheckHere/test2.png https://cdn.discordapp.com/attachments/582127983225995285/973032143792009226/251.jpg
-/CheckHere/test3.png https://cdn.discordapp.com/attachments/582127983225995285/973032144014291004/haha.png
+/CheckHere/test.png https://cdn.discordapp.com/attachments/582127983225995285/973038087569563668/IsekaiJime.png
 <End of Version>
